@@ -1,0 +1,12 @@
+CURRICULUM VITAE (placeholder - replace with your full CV, e.g. CV.pdf, and update the link in index.html)
+
+Name: Haylegebreal Mandefro
+Department: Information System, College of Informatics (3rd year)
+University: Wollo University, Kombolcha Institute of Technology
+Email: haylegeberealmandefro@gmail.com
+Phone: +251 973 163 105
+GitHub: https://github.com/hayle-man
+
+Skills: HTML, CSS, JavaScript (basic), Git, GitHub (50% each); Database (70%)
+Projects: Library Management System (Java, OOP); ER diagram and relational schema for a university course registration system
+Achievements: Volunteer - helped organize a digital-literacy day for local high-school students
